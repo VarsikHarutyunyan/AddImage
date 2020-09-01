@@ -1,0 +1,45 @@
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfo.g.cs
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage_MarkupCompile.cache
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage_MarkupCompile.lref
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.exe
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.deps.json
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.runtimeconfig.json
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.dll
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.pdb
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfo.baml
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.g.resources
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.AssemblyInfo.cs
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.csproj.CopyComplete
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.dll
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.pdb
+C:\Users\varsi\source\repos\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.genruntimeconfig.cache
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.exe
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.deps.json
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.runtimeconfig.json
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.runtimeconfig.dev.json
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.dll
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\AddInfoAndImage.pdb
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.csprojAssemblyReference.cache
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfo.g.cs
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage_MarkupCompile.cache
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage_MarkupCompile.lref
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfo.baml
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.g.resources
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.AssemblyInfoInputs.cache
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.AssemblyInfo.cs
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.csproj.CoreCompileInputs.cache
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.csproj.CopyComplete
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.dll
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.pdb
+C:\Users\Varsik Harutyunyan\Desktop\New folder (2)\AddInfoAndImage\AddInfoAndImage\obj\Debug\netcoreapp3.1\AddInfoAndImage.genruntimeconfig.cache
